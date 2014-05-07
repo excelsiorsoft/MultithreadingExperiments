@@ -10,7 +10,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ConcurrentLinkedQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-public class QueuePutTest {
+public class QueuePutTest { 
 
 	static Integer testRepeats = 100;
 	static Integer repeats = 100;

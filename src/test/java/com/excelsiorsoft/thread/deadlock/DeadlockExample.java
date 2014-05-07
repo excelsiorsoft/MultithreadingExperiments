@@ -1,6 +1,6 @@
 package com.excelsiorsoft.thread.deadlock;
 
-public class DeadlockExample {
+public class DeadlockExample { 
 
 	
 	public static void main (String ... args){
